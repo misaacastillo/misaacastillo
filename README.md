@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi there! I'm a 17-year-old student at EEST N7 IMPA, on my way to becoming an avionics technician. My passion lies in electronics and programming, and I'm always eager to dive into new challenges and expand my skills. Whether it's tinkering with circuits, coding a new project, or experimenting with emerging technologies, I'm driven by curiosity and a love for innovation.  
+Hi there! I’m a 19-year-old student at ITBA, on my way to becoming an Electronic Engineer. I’m also an Avionics Technician, graduated from IMPA.
 
-As I complete my technical studies, I'm excited to pursue a degree in Electronic Engineering, where I can continue pushing the boundaries of technology and problem-solving.  
+I’m passionate about electronics and programming, and I’m always eager to take on new challenges and expand my skills. Whether it’s tinkering with circuits, coding a new project, or experimenting with emerging technologies, I’m driven by curiosity and a love for innovation.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/misa4681) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misaacas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/misael-castillo-0a52a1314) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MisaelCastillo07) 
